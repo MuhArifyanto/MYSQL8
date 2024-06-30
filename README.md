@@ -16,7 +16,7 @@
 
 ![prak 14 3](https://github.com/MuhArifyanto/MYSQL8/assets/147913440/fc2f7487-f7fb-4a8d-b446-ffd44d9f7540)
 
-# Soal Latihan Praktikum 7
+# Soal Latihan Praktikum 6
 
 - ## 1. Departemen Apa Saja Yang Terlibat Dalam Tiap-tiap Project.
 
